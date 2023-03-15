@@ -1,2 +1,2 @@
 # Nexter
-Second learning project from advanced CSS and SASS course.
+Third learning project from advanced CSS and SASS course.
